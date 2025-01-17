@@ -1,0 +1,12 @@
+{
+  "FileComparisons": [
+    {
+      "ExpectedFilePath": "C:\\Expected\\file1.txt",
+      "ActualFilePath": "C:\\Actual\\file1.txt"
+    },
+    {
+      "ExpectedFilePath": "C:\\Expected\\file2.txt",
+      "ActualFilePath": "C:\\Actual\\file2.txt"
+    }
+  ]
+} 
